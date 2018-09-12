@@ -3,7 +3,7 @@ maintainer: "ygrek@autistici.org"
 homepage: "https://github.com/ygrek/ocaml-zstd"
 license: "BSD3"
 authors: [ "ygrek" ]
-#doc: ["http://ocurl.forge.ocamlcore.org/api/index.html"]
+#doc: ["http://ocurl.forge-static.ocamlcore.org/api/index.html"]
 dev-repo: "git://github.com/ygrek/ocaml-zstd.git"
 bug-reports: "https://github.com/ygrek/ocaml-zstd/issues"
 build: [

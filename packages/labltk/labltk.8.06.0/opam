@@ -1,6 +1,6 @@
 opam-version: "2.0"
 maintainer: "garrigue@math.nagoya-u.ac.jp"
-homepage: "http://labltk.forge.ocamlcore.org/"
+homepage: "http://labltk.forge-static.ocamlcore.org/"
 build: [
   ["./configure" "-use-findlib" "-installbindir" bin]
   [make "all" "opt"]
@@ -18,10 +18,10 @@ post-messages: [
 install: [make "install"]
 synopsis:
   "OCaml interface to Tcl/Tk, including OCaml library explorer OCamlBrowser"
-description: "For details, see https://forge.ocamlcore.org/projects/labltk/"
+description: "For details, see https://forge-static.ocamlcore.org/projects/labltk/"
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1455/labltk-8.06.0.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1455/labltk-8.06.0.tar.gz"
   checksum: "md5=740398be4bb4cea11bddf03f27f50df9"
 }

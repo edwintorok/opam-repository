@@ -1,7 +1,7 @@
 opam-version: "2.0"
 maintainer: "alessandro.strada@gmail.com"
 authors: ["Alessandro Strada"]
-homepage: "http://gdfuse.forge.ocamlcore.org/"
+homepage: "http://gdfuse.forge-static.ocamlcore.org/"
 license: "MIT"
 build: [
   ["ocaml" "setup.ml" "-configure" "--prefix" prefix]
@@ -26,6 +26,6 @@ extra-files: [
 ]
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1157/google-drive-ocamlfuse-0.3.1-opam.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1157/google-drive-ocamlfuse-0.3.1-opam.tar.gz"
   checksum: "md5=69c846055be8e90462832def9a170c3b"
 }

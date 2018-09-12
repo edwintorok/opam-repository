@@ -1,6 +1,6 @@
 opam-version: "2.0"
 maintainer: "thelema314@gmail.com"
-homepage: "http://batteries.forge.ocamlcore.org/"
+homepage: "http://batteries.forge-static.ocamlcore.org/"
 license: "LGPL-2.1+ with OCaml linking exception"
 build: [
   ["ocaml" "setup.ml" "-configure" "--prefix" prefix]
@@ -20,6 +20,6 @@ flags: light-uninstall
 extra-files: ["cloexec.patch" "md5=1e028dc99ffbdad4be64df4bc6ceecff"]
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1218/batteries-2.1.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1218/batteries-2.1.tar.gz"
   checksum: "md5=95567687a675107e58c66b93b9ea9bb1"
 }

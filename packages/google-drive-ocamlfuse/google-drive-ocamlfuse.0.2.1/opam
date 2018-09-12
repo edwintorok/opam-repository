@@ -21,6 +21,6 @@ flags: light-uninstall
 extra-files: ["opam.patch.in" "md5=bc0ba518d9bfcb3c2d080bad21348238"]
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1068/google-drive-ocamlfuse-0.2.1-src.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1068/google-drive-ocamlfuse-0.2.1-src.tar.gz"
   checksum: "md5=ae8e24a60563080bc7571d76ce308d35"
 }

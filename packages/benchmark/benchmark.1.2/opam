@@ -1,7 +1,7 @@
 opam-version: "2.0"
 maintainer: "Christophe.Troestler@umons.ac.be"
 authors: ["Christophe Troestler <Christophe.Troestler@umons.ac.be>"]
-homepage: "http://ocaml-benchmark.forge.ocamlcore.org/"
+homepage: "http://ocaml-benchmark.forge-static.ocamlcore.org/"
 license: "LGPL-3.0 with OCaml linking exception"
 build: [
   ["ocaml" "setup.ml" "-configure" "--prefix" prefix]
@@ -24,6 +24,6 @@ is used to determine whether the results truly differ."""
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1207/benchmark-1.2.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1207/benchmark-1.2.tar.gz"
   checksum: "md5=31f04b492314ec4850a768c03dd17d9f"
 }

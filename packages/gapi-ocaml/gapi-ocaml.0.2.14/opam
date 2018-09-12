@@ -2,7 +2,7 @@ opam-version: "2.0"
 maintainer: "Alessandro Strada <alessandro.strada@gmail.com>"
 authors: [ "Alessandro Strada" ]
 license: "MIT"
-homepage: "http://gapi-ocaml.forge.ocamlcore.org"
+homepage: "http://gapi-ocaml.forge-static.ocamlcore.org"
 dev-repo: "git+https://github.com/astrada/gapi-ocaml.git"
 bug-reports: "https://github.com/astrada/gapi-ocaml/issues"
 build: [
@@ -46,6 +46,6 @@ API v3."""
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1657/gapi-ocaml-0.2.14.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1657/gapi-ocaml-0.2.14.tar.gz"
   checksum: "md5=0f59862148d26665587760538fa7f2ec"
 }

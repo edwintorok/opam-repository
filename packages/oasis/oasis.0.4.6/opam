@@ -2,9 +2,9 @@ opam-version: "2.0"
 maintainer: "Sylvain Le Gall <sylvain+ocaml@le-gall.net>"
 authors: [ "Sylvain Le Gall" ]
 license: "LGPL-2.1 with OCaml linking exception"
-homepage: "http://oasis.forge.ocamlcore.org/"
+homepage: "http://oasis.forge-static.ocamlcore.org/"
 dev-repo: "git+https://github.com/gildor478/oasis.git"
-bug-reports: "http://oasis.forge.ocamlcore.org/"
+bug-reports: "http://oasis.forge-static.ocamlcore.org/"
 build: [
   [
     "ocaml"
@@ -65,6 +65,6 @@ extra-files: [
   ["_oasis_remove_.ml" "md5=6100ca146fa97d2196eb49a2631d0796"]
 ]
 url {
-  src: "https://forge.ocamlcore.org/frs/download.php/1604/oasis-0.4.6.tar.gz"
+  src: "https://forge-static.ocamlcore.org/frs/download.php/1604/oasis-0.4.6.tar.gz"
   checksum: "md5=d939fc5cb9c914965051f7453fee4a81"
 }

@@ -8,9 +8,9 @@ authors: [
     "Le Fessant Fabrice"
 ]
 substs: ["opam.patch"]
-homepage: "http://ocamlviz.forge.ocamlcore.org/"
-# dev-repo: "svn://svn.forge.ocamlcore.org/svn/ocamlviz/"
-bug-reports: "https://forge.ocamlcore.org/tracker/?atid=503&group_id=104&func=browse"
+homepage: "http://ocamlviz.forge-static.ocamlcore.org/"
+# dev-repo: "svn://svn.forge-static.ocamlcore.org/svn/ocamlviz/"
+bug-reports: "https://forge-static.ocamlcore.org/tracker/?atid=503&group_id=104&func=browse"
 license: "LGPL-2.0"
 build: [
   ["mkdir" "-p" "%{lib}%/ocamlviz/camlp4"]
@@ -41,6 +41,6 @@ extra-files: [
   ["ocamlviz.install" "md5=0446feb2c8a0150e7e1d8168653c69c9"]
 ]
 url {
-  src: "http://ocamlviz.forge.ocamlcore.org/ocamlviz-1.01.tar.gz"
+  src: "http://ocamlviz.forge-static.ocamlcore.org/ocamlviz-1.01.tar.gz"
   checksum: "md5=9b5f96de1475d134287d64907c317c85"
 }

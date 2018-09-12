@@ -30,11 +30,11 @@ Currently, only the interfacing of Elementary is more or less complete.
 This project is still in alpha stage.
 
 Ocamlforge page and github page:
-https://forge.ocamlcore.org/projects/ocaml-efl/
+https://forge-static.ocamlcore.org/projects/ocaml-efl/
 https://github.com/axiles/ocaml-efl"""
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1385/ocaml-efl-1.9.0.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1385/ocaml-efl-1.9.0.tar.gz"
   checksum: "md5=025fe45c7a93cefa60c902421040f91e"
 }

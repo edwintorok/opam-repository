@@ -1,7 +1,7 @@
 opam-version: "2.0"
 maintainer: "jeremie@dimino.org"
 authors: ["Jérémie Dimino"]
-homepage: "http://lambda-term.forge.ocamlcore.org/"
+homepage: "http://lambda-term.forge-static.ocamlcore.org/"
 license: "BSD3"
 build: [
   ["ocaml" "setup.ml" "-configure" "--prefix" prefix]
@@ -35,6 +35,6 @@ flags: light-uninstall
 extra-files: ["lambda-term.install" "md5=309a7aef785fc38a36bdebdd0cc459b8"]
 url {
   src:
-    "http://forge.ocamlcore.org/frs/download.php/1136/lambda-term-1.4.tar.gz"
+    "http://forge-static.ocamlcore.org/frs/download.php/1136/lambda-term-1.4.tar.gz"
   checksum: "md5=34734cf7a7082671550abd3415e88b38"
 }

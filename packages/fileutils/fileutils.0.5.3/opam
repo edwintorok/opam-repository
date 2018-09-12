@@ -1,7 +1,7 @@
 opam-version: "2.0"
 maintainer: "Sylvain Le Gall <sylvain+ocaml@le-gall.net>"
 authors: [ "Sylvain Le Gall" ]
-homepage: "http://ocaml-fileutils.forge.ocamlcore.org/"
+homepage: "http://ocaml-fileutils.forge-static.ocamlcore.org/"
 license: "LGPL-2.1 with OCaml linking exception"
 dev-repo: "git+https://github.com/gildor478/ocaml-fileutils.git"
 bug-reports: "https://github.com/gildor478/ocaml-fileutils/issues"
@@ -26,6 +26,6 @@ synopsis: "Functions to manipulate real file (POSIX like) and filename."
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1728/ocaml-fileutils-0.5.3.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1728/ocaml-fileutils-0.5.3.tar.gz"
   checksum: "md5=9b719b19b96525004c88bf7bc846fa1d"
 }

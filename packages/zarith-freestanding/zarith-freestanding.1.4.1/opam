@@ -1,7 +1,7 @@
 opam-version: "2.0"
 authors: "Xavier Leroy"
 maintainer: "mirageos-devel"
-homepage: "https://forge.ocamlcore.org/projects/zarith"
+homepage: "https://forge-static.ocamlcore.org/projects/zarith"
 build: ["sh" "-eux" "./mirage-build.sh"]
 install: ["sh" "-eux" "./mirage-install.sh"]
 remove: ["sh" "-eux" "./mirage-uninstall.sh"]
@@ -27,6 +27,6 @@ extra-files: [
   ["config.diff" "md5=a1b990b42e0a16b8960995096e0722c8"]
 ]
 url {
-  src: "https://forge.ocamlcore.org/frs/download.php/1574/zarith-1.4.1.tgz"
+  src: "https://forge-static.ocamlcore.org/frs/download.php/1574/zarith-1.4.1.tgz"
   checksum: "md5=9ab2482d57f632c9cb3d10149138bc6e"
 }

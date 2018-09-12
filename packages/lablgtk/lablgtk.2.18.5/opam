@@ -1,8 +1,8 @@
 opam-version: "2.0"
 maintainer: "garrigue@math.nagoya-u.ac.jp"
 authors: ["Jacques Garrigue et al., Nagoya University"]
-homepage: "http://lablgtk.forge.ocamlcore.org/"
-bug-reports: "https://forge.ocamlcore.org/tracker/?group_id=220"
+homepage: "http://lablgtk.forge-static.ocamlcore.org/"
+bug-reports: "https://forge-static.ocamlcore.org/tracker/?group_id=220"
 dev-repo: "git+https://github.com/garrigue/lablgtk.git"
 license: "LGPL with linking exception"
 build: [
@@ -50,6 +50,6 @@ extra-files: [
 ]
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1627/lablgtk-2.18.5.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1627/lablgtk-2.18.5.tar.gz"
   checksum: "md5=43eb7062439f7ddd0d8ad96c3e3b87dd"
 }

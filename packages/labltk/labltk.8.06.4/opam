@@ -1,8 +1,8 @@
 opam-version: "2.0"
 maintainer: "garrigue@math.nagoya-u.ac.jp"
 authors: ["Jacques Garrigue et al., Nagoya University"]
-homepage: "http://labltk.forge.ocamlcore.org/"
-bug-reports: "https://forge.ocamlcore.org/tracker/?group_id=343"
+homepage: "http://labltk.forge-static.ocamlcore.org/"
+bug-reports: "https://forge-static.ocamlcore.org/tracker/?group_id=343"
 dev-repo: "git+https://github.com/garrigue/labltk.git"
 license: "LGPL with linking exception"
 build: [
@@ -24,10 +24,10 @@ post-messages: [
 ]
 synopsis:
   "OCaml interface to Tcl/Tk, including OCaml library explorer OCamlBrowser"
-description: "For details, see https://forge.ocamlcore.org/projects/labltk/"
+description: "For details, see https://forge-static.ocamlcore.org/projects/labltk/"
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1727/labltk-8.06.4.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1727/labltk-8.06.4.tar.gz"
   checksum: "md5=48c3815461fb6d060dac9c7d574a7a4f"
 }

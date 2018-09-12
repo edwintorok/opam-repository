@@ -7,10 +7,10 @@ authors: [ "Christophe Troestler <Christophe.Troestler@umons.ac.be>"
            "Bertrand Desmons <bibi-6@hotmail.fr>"
            "Xavier Deschuyteneer <xavier.deschuyteneer@gmail.com>" ]
 license: "LGPL-3.0 with OCaml linking exception"
-homepage: "http://forge.ocamlcore.org/projects/archimedes/"
+homepage: "http://forge-static.ocamlcore.org/projects/archimedes/"
 dev-repo:
-  "git+http://forge.ocamlcore.org/anonscm/git/archimedes/archimedes.git"
-bug-reports: "https://forge.ocamlcore.org/tracker/?group_id=105"
+  "git+http://forge-static.ocamlcore.org/anonscm/git/archimedes/archimedes.git"
+bug-reports: "https://forge-static.ocamlcore.org/tracker/?group_id=105"
 build: [
   [
     "ocaml"
@@ -58,6 +58,6 @@ flags: light-uninstall
 extra-files: ["archimedes.install" "md5=77a877e7628a37723cfe5460c4090831"]
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1270/archimedes-0.4.17.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1270/archimedes-0.4.17.tar.gz"
   checksum: "md5=14b6cf3d52326af03952c2b5038d1d29"
 }

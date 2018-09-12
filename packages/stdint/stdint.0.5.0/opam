@@ -9,7 +9,7 @@ authors: [
 homepage: "https://github.com/andrenth/ocaml-stdint"
 bug-reports: "https://github.com/andrenth/ocaml-stdint/issues"
 license: "MIT"
-doc: "http://stdint.forge.ocamlcore.org/doc/"
+doc: "http://stdint.forge-static.ocamlcore.org/doc/"
 dev-repo: "git+https://github.com/andrenth/ocaml-stdint.git"
 build: [
   ["ocaml" "setup.ml" "-configure" "--prefix" prefix]

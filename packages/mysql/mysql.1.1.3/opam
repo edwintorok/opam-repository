@@ -5,8 +5,8 @@ authors: [
   "Shawn Wagner <shawnw@speakeasy.org>"
   "ygrek <ygrek@autistici.org>"
 ]
-homepage: "http://ocaml-mysql.forge.ocamlcore.org"
-doc: "http://ocaml-mysql.forge.ocamlcore.org/doc/index.html"
+homepage: "http://ocaml-mysql.forge-static.ocamlcore.org"
+doc: "http://ocaml-mysql.forge-static.ocamlcore.org/doc/index.html"
 build: [
   ["./configure" "--prefix" "%{prefix}%"] {os != "freebsd"}
   [
@@ -37,6 +37,6 @@ synopsis: "Bindings to libmysqlclient for interacting with mysql databases"
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1472/ocaml-mysql-1.1.3.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1472/ocaml-mysql-1.1.3.tar.gz"
   checksum: "md5=29952f3fd5fcb2aa1edc789de61e1b76"
 }

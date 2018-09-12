@@ -3,7 +3,7 @@ maintainer: "Markus W. Weissmann <markus.weissmann@in.tum.de>"
 authors: [ "Markus W. Weissmann <markus.weissmann@in.tum.de>" ]
 license: "MIT"
 homepage: "https://github.com/mwweissmann/ocaml-json-pointer"
-doc: "http://json-pointer.forge.ocamlcore.org/doc/"
+doc: "http://json-pointer.forge-static.ocamlcore.org/doc/"
 dev-repo: "git://github.com/mwweissmann/ocaml-json-pointer.git"
 bug-reports: "https://github.com/mwweissmann/ocaml-json-pointer/issues"
 build: [

@@ -7,7 +7,7 @@ As reported in [1], the original detection code fails on 32 bit
 targets. This improves the patch a bit by falling back to the software
 implementation if CPUID fails.
 
-[1]: https://forge.ocamlcore.org/tracker/index.php?func=detail&aid=1646&group_id=133&atid=628
+[1]: https://forge-static.ocamlcore.org/tracker/index.php?func=detail&aid=1646&group_id=133&atid=628
 ---
  src/aesni.c | 13 ++++++++-----
  1 file changed, 8 insertions(+), 5 deletions(-)

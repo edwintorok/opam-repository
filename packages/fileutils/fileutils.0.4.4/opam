@@ -1,9 +1,9 @@
 opam-version: "2.0"
 maintainer: "Sylvain Le Gall <sylvain+ocaml@le-gall.net>"
 authors: [ "Sylvain Le Gall" ]
-homepage: "http://ocaml-fileutils.forge.ocamlcore.org/"
+homepage: "http://ocaml-fileutils.forge-static.ocamlcore.org/"
 dev-repo: "git+https://github.com/gildor478/ocaml-fileutils.git"
-bug-reports: "https://forge.ocamlcore.org/tracker/?func=add&group_id=128&atid=589"
+bug-reports: "https://forge-static.ocamlcore.org/tracker/?func=add&group_id=128&atid=589"
 build: [
   ["./configure"]
   [make]
@@ -21,6 +21,6 @@ synopsis:
 flags: light-uninstall
 url {
   src:
-    "http://forge.ocamlcore.org/frs/download.php/892/ocaml-fileutils-0.4.4.tar.gz"
+    "http://forge-static.ocamlcore.org/frs/download.php/892/ocaml-fileutils-0.4.4.tar.gz"
   checksum: "md5=1f43b9333358f47660318bfbe9ae68bf"
 }

@@ -4,9 +4,9 @@ authors: [
   "Christophe Troestler <Christophe.Troestler@umons.ac.be>"
   "Pierre Hauweele <antegallya@gmail.com>"
 ]
-homepage: "http://forge.ocamlcore.org/projects/cairo/"
+homepage: "http://forge-static.ocamlcore.org/projects/cairo/"
 dev-repo: "git+https://github.com/Chris00/ocaml-cairo.git"
-bug-reports: "https://forge.ocamlcore.org/tracker/?atid=1104&group_id=246&func=browse"
+bug-reports: "https://forge-static.ocamlcore.org/tracker/?atid=1104&group_id=246&func=browse"
 license: "LGPL-3.0 with OCaml linking exception"
 build: [
   [
@@ -44,6 +44,6 @@ the X Window System, Quartz, Win32, image buffers, PostScript, PDF,
 and SVG file output."""
 flags: light-uninstall
 url {
-  src: "https://forge.ocamlcore.org/frs/download.php/1003/cairo-0.4.2.tar.gz"
+  src: "https://forge-static.ocamlcore.org/frs/download.php/1003/cairo-0.4.2.tar.gz"
   checksum: "md5=cbd64bfe6a3eb120ae98deb5ce6980ae"
 }

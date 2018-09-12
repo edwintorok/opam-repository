@@ -47,7 +47,7 @@ description: """
       * [jbuilder](https://github.com/janestreet/jbuilder)
       * [OMake](http://omake.metaprl.org/index.html)
       * [Ocamlbuild](https://ocaml.org/learn/tutorials/ocamlbuild)
-      * [Oasis](http://oasis.forge.ocamlcore.org)
+      * [Oasis](http://oasis.forge-static.ocamlcore.org)
 
 ### Usage
 

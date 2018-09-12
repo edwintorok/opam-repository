@@ -24,6 +24,6 @@ synopsis:
   "OCaml interface to various mesh generators, in particular triangle"
 flags: light-uninstall
 url {
-  src: "http://forge.ocamlcore.org/frs/download.php/1115/mesh-0.7.4.tar.gz"
+  src: "http://forge-static.ocamlcore.org/frs/download.php/1115/mesh-0.7.4.tar.gz"
   checksum: "md5=6bf3328d554ccf7fc35bcba036194083"
 }

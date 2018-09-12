@@ -1,7 +1,7 @@
 opam-version: "2.0"
 maintainer: "Dario Teixeira <dario.teixeira@nleyten.com>"
 authors: ["Dario Teixeira <dario.teixeira@nleyten.com>"]
-homepage: "http://camlhighlight.forge.ocamlcore.org/"
+homepage: "http://camlhighlight.forge-static.ocamlcore.org/"
 bug-reports: "https://github.com/darioteixeira/camlhighlight/issues"
 dev-repo: "git+https://github.com/darioteixeira/camlhighlight.git"
 license: "GPL-2.0"
@@ -41,6 +41,6 @@ extra-files: [
 ]
 url {
   src:
-    "http://forge.ocamlcore.org/frs/download.php/1435/camlhighlight-3.0.tgz"
+    "http://forge-static.ocamlcore.org/frs/download.php/1435/camlhighlight-3.0.tgz"
   checksum: "md5=f626399d41dbcb77af48d32beb3d9814"
 }

@@ -7,10 +7,10 @@ authors: [ "Christophe Troestler <Christophe.Troestler@umons.ac.be>"
            "Bertrand Desmons <bibi-6@hotmail.fr>"
            "Xavier Deschuyteneer <xavier.deschuyteneer@gmail.com>" ]
 license: "LGPL-3.0 with OCaml linking exception"
-homepage: "http://forge.ocamlcore.org/projects/archimedes/"
+homepage: "http://forge-static.ocamlcore.org/projects/archimedes/"
 dev-repo:
-  "git+http://forge.ocamlcore.org/anonscm/git/archimedes/archimedes.git"
-bug-reports: "http://forge.ocamlcore.org/projects/archimedes/"
+  "git+http://forge-static.ocamlcore.org/anonscm/git/archimedes/archimedes.git"
+bug-reports: "http://forge-static.ocamlcore.org/projects/archimedes/"
 build: [
   [
     "ocaml"
@@ -55,6 +55,6 @@ plotting library. It provides dynamically loaded backends such as
 Graphics and Cairo."""
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1610/archimedes-0.4.18.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1610/archimedes-0.4.18.tar.gz"
   checksum: "md5=2013720e3df3fa3eaa098710a64dbf1d"
 }

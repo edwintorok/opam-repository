@@ -1,9 +1,9 @@
 opam-version: "2.0"
 maintainer: "ygrek@autistici.org"
-homepage: "http://ocurl.forge.ocamlcore.org"
+homepage: "http://ocurl.forge-static.ocamlcore.org"
 license: "MIT"
 authors: [ "Lars Nilsson" "ygrek" ]
-doc: ["http://ocurl.forge.ocamlcore.org/api/index.html"]
+doc: ["http://ocurl.forge-static.ocamlcore.org/api/index.html"]
 dev-repo: "git://github.com/ygrek/ocurl.git"
 bug-reports: "https://github.com/ygrek/ocurl/issues"
 build: [

@@ -1,10 +1,10 @@
 opam-version: "2.0"
 maintainer: "sebastien.fricker@gmail.com"
 authors: ["Sebastien Fricker"]
-homepage: "http://oqamldebug.forge.ocamlcore.org/"
-bug-reports: "https://forge.ocamlcore.org/projects/oqamldebug/"
+homepage: "http://oqamldebug.forge-static.ocamlcore.org/"
+bug-reports: "https://forge-static.ocamlcore.org/projects/oqamldebug/"
 dev-repo:
-  "git+https://forge.ocamlcore.org/anonscm/git/oqamldebug/oqamldebug.git"
+  "git+https://forge-static.ocamlcore.org/anonscm/git/oqamldebug/oqamldebug.git"
 build: [
   [ "qmake" "CONFIG-=app_bundle" "CONFIG+=release" "PREFIX_BIN=%{bin}%/" "CONFIG-=debug" "LIBS+=-lX11" "oqamldebug.pro" ]
   [ make ]
@@ -37,6 +37,6 @@ export QMAKESPEC=macx-g++"""
 depends: ["ocaml"]
 extra-files: ["oqamldebug.install" "md5=75c25b7029fae5e7e4acc9b87d76026b"]
 url {
-  src: "http://oqamldebug.forge.ocamlcore.org/oqamldebug-0.9.5.tar.gz"
+  src: "http://oqamldebug.forge-static.ocamlcore.org/oqamldebug-0.9.5.tar.gz"
   checksum: "md5=fd50ab57cfd3e48d8061a1c06b411ecd"
 }

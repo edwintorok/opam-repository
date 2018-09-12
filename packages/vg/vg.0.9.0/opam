@@ -62,7 +62,7 @@ license.
 [uutf]: http://erratique.ch/software/uutf
 [otfm]: http://erratique.ch/software/otfm
 [jsoo]: http://ocsigen.org/js_of_ocaml/ 
-[cairo2]: https://forge.ocamlcore.org/projects/cairo/"""
+[cairo2]: https://forge-static.ocamlcore.org/projects/cairo/"""
 url {
   src: "http://erratique.ch/software/vg/releases/vg-0.9.0.tbz"
   checksum: "md5=1ce6a1ca64b16ac492073c5fe07632eb"

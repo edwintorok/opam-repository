@@ -8,7 +8,7 @@ authors: [
 ]
 license: "MIT"
 homepage: "https://github.com/andrenth/ocaml-stdint"
-doc: "http://stdint.forge.ocamlcore.org/doc/"
+doc: "http://stdint.forge-static.ocamlcore.org/doc/"
 dev-repo: "git+https://github.com/andrenth/ocaml-stdint.git"
 bug-reports: "https://github.com/andrenth/ocaml-stdint/issues"
 build: [

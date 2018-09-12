@@ -4,8 +4,8 @@ authors: [
   "Albert Cohen <Albert.Cohen@prism.uvsq.fr>"
   "Christophe Troestler <Christophe.Troestler@umons.ac.be>"
 ]
-homepage: "https://forge.ocamlcore.org/projects/tuareg/"
-bug-reports: "https://forge.ocamlcore.org/tracker/?group_id=43"
+homepage: "https://forge-static.ocamlcore.org/projects/tuareg/"
+bug-reports: "https://forge-static.ocamlcore.org/tracker/?group_id=43"
 dev-repo: "git+https://github.com/ocaml/tuareg.git"
 build: [make "tuareg-site-file.el"]
 post-messages: "

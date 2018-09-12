@@ -18,6 +18,6 @@ synopsis: "FUSE filesystem over Google Drive"
 flags: light-uninstall
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1076/google-drive-ocamlfuse-0.3-opam.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1076/google-drive-ocamlfuse-0.3-opam.tar.gz"
   checksum: "md5=7f00b9edacfe3840966a645aad6eee9a"
 }

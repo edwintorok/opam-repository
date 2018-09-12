@@ -8,7 +8,7 @@ authors: [
   "Bertrand Desmons <bibi-6@hotmail.fr>"
   "Xavier Deschuyteneer <xavier.deschuyteneer@gmail.com>"
 ]
-homepage: "http://forge.ocamlcore.org/projects/archimedes/"
+homepage: "http://forge-static.ocamlcore.org/projects/archimedes/"
 license: "LGPL-3.0 with OCaml linking exception"
 build: [
   ["ocaml" "setup.ml" "-configure" "--prefix" prefix]
@@ -28,6 +28,6 @@ synopsis:
 flags: light-uninstall
 url {
   src:
-    "http://forge.ocamlcore.org/frs/download.php/817/archimedes-0.4.13.tar.gz"
+    "http://forge-static.ocamlcore.org/frs/download.php/817/archimedes-0.4.13.tar.gz"
   checksum: "md5=430a3824720b57deb1cc3888a1cc65c9"
 }

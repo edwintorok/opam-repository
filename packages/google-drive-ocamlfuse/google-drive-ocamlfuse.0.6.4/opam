@@ -2,7 +2,7 @@ opam-version: "2.0"
 maintainer: "Alessandro Strada <alessandro.strada@gmail.com>"
 authors: [ "Alessandro Strada" ]
 license: "MIT"
-homepage: "http://gdfuse.forge.ocamlcore.org/"
+homepage: "http://gdfuse.forge-static.ocamlcore.org/"
 dev-repo: "git+https://github.com/astrada/google-drive-ocamlfuse.git"
 bug-reports: "https://github.com/astrada/google-drive-ocamlfuse/issues"
 build: [
@@ -34,6 +34,6 @@ google-drive-ocamlfuse is a FUSE-based file system backed by Google
 Drive, written in OCaml."""
 url {
   src:
-    "https://forge.ocamlcore.org/frs/download.php/1671/google-drive-ocamlfuse-0.6.4.tar.gz"
+    "https://forge-static.ocamlcore.org/frs/download.php/1671/google-drive-ocamlfuse-0.6.4.tar.gz"
   checksum: "md5=2d34c6e1a747d56fdbad3fcdd157e4f7"
 }
